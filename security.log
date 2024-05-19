@@ -1,0 +1,16 @@
+2024-05-15 19:10:34,057 - INFO - Monitoramento de segurança ativado.
+2024-05-15 19:10:34,062 - INFO - Política policy1 adicionada com sucesso.
+2024-05-15 19:10:34,064 - INFO - Política policy2 adicionada com sucesso.
+2024-05-15 19:10:34,065 - INFO - Evento de segurança detectado: {'type': 'security', 'severity': 'high'}
+2024-05-15 19:10:34,066 - INFO - Aplicando política default a evento {'type': 'security', 'severity': 'high'}...
+2024-05-15 19:10:35 - {'type': 'security', 'severity': 'high'}
+2024-05-15 19:10:35,071 - INFO - Enviando evento para o SIEM: {'type': 'security', 'severity': 'high'}
+2024-05-15 19:10:35,072 - INFO - Monitoramento de segurança desativado.
+2024-05-15 19:10:45,276 - INFO - Monitoramento de segurança ativado.
+2024-05-15 19:10:45,280 - INFO - Política policy1 adicionada com sucesso.
+2024-05-15 19:10:45,281 - INFO - Política policy2 adicionada com sucesso.
+2024-05-15 19:10:45,282 - INFO - Evento de segurança detectado: {'type': 'security', 'severity': 'high'}
+2024-05-15 19:10:45,283 - INFO - Aplicando política default a evento {'type': 'security', 'severity': 'high'}...
+2024-05-15 19:10:46 - {'type': 'security', 'severity': 'high'}
+2024-05-15 19:10:46,285 - INFO - Enviando evento para o SIEM: {'type': 'security', 'severity': 'high'}
+2024-05-15 19:10:46,286 - INFO - Monitoramento de segurança desativado.
